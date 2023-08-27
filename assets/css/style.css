@@ -25,6 +25,8 @@ body {
   overflow: hidden;
 }
 
+/*adjust quiz header siz*/
+
 .quiz-header {
   padding: 4rem;
 }
