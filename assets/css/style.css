@@ -15,6 +15,7 @@ body {
   overflow: hidden;
   margin: 0;
 }
+/* add container style*/
 
 .quiz-container {
   background-color:lightgreen;
