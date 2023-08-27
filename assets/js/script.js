@@ -1,4 +1,4 @@
-//*Add Main question for Quiz */
+
 const quizData = [
   {
       question:
