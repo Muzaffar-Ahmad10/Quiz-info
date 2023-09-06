@@ -1,4 +1,4 @@
-
+//*add questions */
 const quizData = [
   {
       question:
@@ -11,7 +11,7 @@ const quizData = [
   },
   {
       question:
-          "In which country is European Parliament?",
+          "In which country European Parliament loca?",
       a: "Germany",
       b: "France",
       c: "Italy",
@@ -36,6 +36,7 @@ const quizData = [
       d: "Italy",
       correct: "b",
   },
+ 
 ];
 
 
