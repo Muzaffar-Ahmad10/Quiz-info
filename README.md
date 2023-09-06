@@ -9,4 +9,5 @@ Languages
 * CSS
 * JavaScript 
 
+Here is the link of Quiz, [General Knowledge Quiz](https://8000-muzaffarahmad1-quizinfo-7h7npmt93fw.ws-eu104.gitpod.io/)
 
