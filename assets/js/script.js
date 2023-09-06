@@ -11,7 +11,7 @@ const quizData = [
   },
   {
       question:
-          "In which country European Parliament loca?",
+          "In which country European Parliament located?",
       a: "Germany",
       b: "France",
       c: "Italy",
