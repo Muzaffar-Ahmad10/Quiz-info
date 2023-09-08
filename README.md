@@ -1,14 +1,22 @@
 # General Knowledge Quiz
 
-### This application is a javascipt quiz that consists of four questions, and after attempting four questions, it display the result.
+ This site is a General Knowledge Quiz that consists of four questions, and after attempting four questions, it display the result.  Here we have four general questions. General Knowledge Quiz is a fully responsive JavaScript site.
+
 ![insurting image](/assets/docs/am-i-responsive-quiz.png)
 
-#### Technologies Used
-Languages
+## Technologies Used
+
+#### Languages
 
 * HTML
 * CSS
 * JavaScript 
+
+#### Frameworks & Tools
+
+* GitHub
+* GitPod
+* Google Font
 
 #### General Knowledge questions
 ![insurting image](/assets/docs/general-knowledge-quizzes.png) 
