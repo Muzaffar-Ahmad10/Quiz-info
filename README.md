@@ -1,6 +1,7 @@
-# Javascript Quiz
+# General Knowledge Quiz
 
 ### This application is a javascipt quiz that consists of four questions, and after attempting four questions, it display the result.
+![insurting image](/assets/docs/am-i-responsive-quiz.png)
 
 #### Technologies Used
 Languages
@@ -9,7 +10,7 @@ Languages
 * CSS
 * JavaScript 
 
-#### General Knowledge question 
+#### General Knowledge questions
 ![insurting image](/assets/docs/general-knowledge-quizzes.png) 
 
 #### Result 
