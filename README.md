@@ -62,6 +62,16 @@ The website was deployed using GitHub Pages by following these steps,
 
 https://muzaffar-ahmad10.github.io/Quiz-info/
 
+## Credits
+
+### Code
+
+* Love math project was a big motivation supporter.
+
+### Content
+
+* used Google Font.
+
 ## Media
 
 * screenshots are taken from site,
