@@ -44,6 +44,19 @@
 
 * JSHint JavaScript Validator service was used to test the  page code, the validator shows some warnings.
 
+### Unfixed Bugs
+
+* I got some errors and warnings in html and javascript files due to that I am unable show Lighthouse result, but my site is completely showing good results
+
+## Deployment
+
+The website was deployed using GitHub Pages by following these steps,
+
+* In the GitHub repository navigate to the Settings tab
+* On the left hand menu select Pages
+* For the source select Branch: master
+* After the webpage refreshes automaticaly you will see a ribbon on the top saying, your site is live at,
+
 
 
 ### Here is the link of Quiz, [General Knowledge Quiz](https://8000-muzaffarahmad1-quizinfo-7h7npmt93fw.ws-eu104.gitpod.io/)
