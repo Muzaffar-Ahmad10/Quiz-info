@@ -57,7 +57,16 @@ The website was deployed using GitHub Pages by following these steps,
 * For the source select Branch: master
 * After the webpage refreshes automaticaly you will see a ribbon on the top saying, your site is live at,
 
+## Media
 
+* screenshots are taken from site,
+
+## Confession
+
+I would like to say Thank,
+
+* My mentor Mo Shami for his suggestions, feedback and Motivational support.
+* To slake community, Slake People are very friendly and helpful for any problems,
 
 ### Here is the link of Quiz, [General Knowledge Quiz](https://muzaffar-ahmad10.github.io/Quiz-info/)
 
