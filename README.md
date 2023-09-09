@@ -7,6 +7,9 @@
 
 ![insurting image](/assets/docs/am-i-responsive-quiz.png)
 
+## Structure
+The page structur is perfectly user friendly, and easy to understand. On arriving to the site the user see a similar type of questions  with the submit button  on the bottom of the quiz area  The site consists of four different questions,
+
 ## Technologies Used
 
 #### Languages
